@@ -13,3 +13,4 @@ function Area() {
   return this.length * this.breadth;
 }
 console.log(rectangle.showArea());
+console.log(square.showArea());
